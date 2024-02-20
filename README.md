@@ -1,5 +1,7 @@
 # Git Workshop
 
+![image](https://github.com/Yaneda/workshop2-git/assets/109892610/493a3fd0-9a9f-4a8b-a5e0-b49a4907c6ca)
+
 ## Create a repository from GitHub and editing it online
 
 GitHub has an introductory [exercise](https://docs.github.com/en/get-started/start-your-journey/hello-world), try it out
